@@ -3,6 +3,6 @@
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shallow-zzt)]()
-[![Anurag's GitHub stats](https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=shallow-zzt&langs_count=10)]()  
+[![Anurag's GitHub stats](https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=shallow-zzt&layout=compact&langs_count=10)]()  
   
 </div>
