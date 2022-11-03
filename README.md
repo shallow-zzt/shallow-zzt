@@ -3,7 +3,7 @@
 # 📶 Statistics
 <div align="center">
   
-<img align="center" src="https://github-readme-stats-two-theta-93.vercel.app/api?username=shallow-zzt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats-two-theta-93.vercel.app/api?username=shallow-zzt&show_icons=true&include_all_commits=true&count_private=true" />
   
 </div>
 
