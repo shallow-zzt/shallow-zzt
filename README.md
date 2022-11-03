@@ -1,13 +1,14 @@
 <h3 align="center">→ Yurotic Dashboard ←</h3> 
 <hr>
 
+# 📶 Statistics
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shallow-zzt)]()
-[![Anurag's GitHub stats](https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=shallow-zzt&layout=compact&langs_count=10)]()  
+<img align="center" src="https://github-readme-stats-two-theta-93.vercel.app/api?username=shallow-zzt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   
 </div>
 
+<img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=shallow-zzt&layout=compact&langs_count=10" />
 # 🌱 Learning
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://wikipedia.org/wiki/C_(programming_language))
