@@ -1,3 +1,3 @@
 ### → Yurotic Dashboard ←
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shallow-zzt)](https://github.com/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
