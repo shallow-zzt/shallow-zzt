@@ -1,4 +1,4 @@
-<h3 align="center">→ Yurotic Dashboard ←</h3> 
+<h2 align="center">→ Yurotic Dashboard ←</h2> 
 
 ## 📶 Statistics
 <div align="center">
