@@ -1,6 +1,5 @@
 <h3 align="center">→ Yurotic Dashboard ←</h3> 
-
-<br><br>
+<hr>
 
 <div align="center">
   
