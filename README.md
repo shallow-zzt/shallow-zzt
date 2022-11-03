@@ -1,5 +1,11 @@
 <h2 align="center">→ Yurotic Dashboard ←</h2> 
 
+<h3 align="center">Nya~ <strong>Times</strong> the Profile has been Viewed</h2> 
+<div align="center">
+  
+<img align="center" src="https://count.getloli.com/get/@shallow-zzt?theme=asoul" />
+  
+</div>
 
 ## 📶 Statistics
 <div align="center">
