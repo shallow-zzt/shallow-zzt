@@ -8,6 +8,8 @@
   
 </div>
 
+<br>
+<br>
 <img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=shallow-zzt&layout=compact&langs_count=10" />
 
 # 🌱 Learning
