@@ -18,7 +18,7 @@
 <br>
 <img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=shallow-zzt&layout=compact&langs_count=10" />
 
-## 🌴 Using 
+## 🌴 Now Using 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![GO](https://img.shields.io/badge/go-%230099FF.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.google.cn)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
