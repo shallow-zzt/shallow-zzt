@@ -18,7 +18,7 @@
 <br>
 <img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=shallow-zzt&layout=compact&langs_count=10" />
 
-## 🌴 Skilled
+## 🌴 Using 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![GO](https://img.shields.io/badge/go-%230099FF.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.google.cn)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -27,7 +27,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://wikipedia.org/wiki/JavaScript)
 
 
-## 🌱 Learning/Unskilled
+## 🌱 Want to Learn
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
