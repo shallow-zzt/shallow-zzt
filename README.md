@@ -7,16 +7,6 @@
   
 </div>
 
-## 📶 Statistics
-<div align="center">
-  
-<img align="center" src="https://github-readme-stats-two-theta-93.vercel.app/api?username=shallow-zzt&show_icons=true&include_all_commits=true&count_private=true" />
-  
-</div>
-
-<br>
-<br>
-<img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=shallow-zzt&layout=compact&langs_count=10" />
 
 ## 🌴 Now Using 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
